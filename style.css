@@ -46,7 +46,7 @@ ul li a:hover {
   position: absolute;
   top: 0;
   right: 0;
-  height: 111vh;
+  height: 113vh;
   display: flex;
   z-index: 1;
   margin-top: 15px;
@@ -131,6 +131,13 @@ ul li a:hover {
 .blurry-text,
 .blurry-image {
   opacity: 0.3;
+}
+.about-me{
+  margin-top: 40px;
+  margin-top: 20px;
+  font-size: 20px;
+  color: green;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 @media (max-width: 786px){
